@@ -110,7 +110,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Developed with 💻 by [Arastu Thakur](https://github.com/arastuthakur)
 
 - GitHub: [@arastuthakur](https://github.com/arastuthakur)
-- LinkedIn: [Arastu Thakur](https://linkedin.com/in/arastu-thakur)
+- LinkedIn: [Arastu Thakur](https://linkedin.com/in/arastuthakur)
 - Email: [arustuthakur@gmail.com](mailto:arustuthakur@gmail.com)
 
 ## 🙏 Acknowledgments
